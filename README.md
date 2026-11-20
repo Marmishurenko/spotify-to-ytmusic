@@ -5,7 +5,7 @@ An iPhone shortcut that opens Spotify links in **YouTube Music**.
 A friend sends you a Spotify song in Messages, but you don't have Spotify. Long-press the link, tap **Share → Spotify to YT Music**, and the same song starts playing in YouTube Music.
 
 <p align="center">
-  <img src="docs/demo.gif" width="320" alt="Long-pressing a Spotify link in Messages, sharing it to the Spotify to YT Music shortcut, and the same song playing in YouTube Music">
+  <img src="docs/demo-v2.gif" width="320" alt="Long-pressing a Spotify link in Messages, sharing it to the Spotify to YT Music shortcut, and the same song playing in YouTube Music">
 </p>
 
 - **Songs** open straight to the matching song in YouTube Music.
